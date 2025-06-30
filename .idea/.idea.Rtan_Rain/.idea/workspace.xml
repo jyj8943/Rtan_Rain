@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39c74412-5565-47e9-ade1-29cfd06b3d56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Rtan_Rain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rtan_Rain/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rain.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -90,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751278285817</updated>
       <workItem from="1751278287406" duration="8000" />
-      <workItem from="1751278297691" duration="2198000" />
+      <workItem from="1751278297691" duration="3499000" />
     </task>
     <servers />
   </component>
