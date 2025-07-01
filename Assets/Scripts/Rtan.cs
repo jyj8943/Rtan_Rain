@@ -13,7 +13,6 @@ public class Rtan : MonoBehaviour
     {
         Application.targetFrameRate = 60;
         renderer = GetComponent<SpriteRenderer>();
-        Debug.Log("안녕");
     }
 
     // Update is called once per frame
