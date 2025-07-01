@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Rtan_Rain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rtan_Rain/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Rain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rtan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Rtan.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +97,7 @@
       <updated>1751278285817</updated>
       <workItem from="1751278287406" duration="8000" />
       <workItem from="1751278297691" duration="5654000" />
-      <workItem from="1751330594656" duration="3534000" />
+      <workItem from="1751330594656" duration="5466000" />
     </task>
     <servers />
   </component>
