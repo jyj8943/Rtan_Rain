@@ -11,7 +11,6 @@ public class Rain : MonoBehaviour
 
     private SpriteRenderer renderer;
     
-    // Start is called before the first frame update
     void Start()
     {
         renderer = GetComponent<SpriteRenderer>();
@@ -43,8 +42,7 @@ public class Rain : MonoBehaviour
 
         transform.localScale = new Vector3(size, size, 0);
     }
-
-    // Update is called once per frame
+    
     void Update()
     {
         
@@ -54,6 +52,12 @@ public class Rain : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
+            Destroy(this.gameObject);
+        }
+
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            GameManager.instance.AddScore(score);
             Destroy(this.gameObject);
         }
     }
